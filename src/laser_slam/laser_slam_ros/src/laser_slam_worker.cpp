@@ -26,7 +26,7 @@
 #include <tf/transform_listener.h>
 #include <visualization_msgs/Marker.h>
 #include <visualization_msgs/MarkerArray.h>
-//test
+
 namespace laser_slam_ros {
 
 using namespace laser_slam;
